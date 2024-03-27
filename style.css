@@ -1,0 +1,27 @@
+.f25{
+    color: cyan;
+ }
+ .img1 img{
+     position: absolute;
+ }
+ .form1{
+     position: relative;
+     padding-top: 150px;
+ }
+ .page{
+    margin-left: 1000px;
+ }
+ .one{
+    margin-left: 132px;
+ }
+ .two:hover{
+    
+    transform: scale(0.9);
+    transition: 3s;
+ }
+ .card{
+    
+    border: none !important
+    
+ }
+ 
